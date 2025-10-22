@@ -15,12 +15,6 @@ Um simples programa em **Python** para **verificar** e **gerar** números de CPF
    ```bash
    cd C:\Users\geova\OneDrive\Desktop\projeto_cpf
 
-## Como usar
 
-1. Abra o terminal ou PowerShell.
-2. Navegue até a pasta do projeto, por exemplo:
-   ```bash
-   cd C:\Users\geova\OneDrive\Desktop\projeto_cpf
-   python main.py
 
 

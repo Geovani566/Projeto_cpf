@@ -8,8 +8,19 @@ Um simples programa em **Python** para **verificar** e **gerar** números de CPF
 - Gera CPFs aleatórios válidos automaticamente.
 - Formata o CPF no padrão `XXX.XXX.XXX-XX`.
 
-## 🧩 Como usar
+## Como usar
 
-1. Execute o arquivo `main.py`:
+1. Abra o terminal ou PowerShell.
+2. Navegue até a pasta do projeto, por exemplo:
    ```bash
+   cd C:\Users\geova\OneDrive\Desktop\projeto_cpf
+
+## Como usar
+
+1. Abra o terminal ou PowerShell.
+2. Navegue até a pasta do projeto, por exemplo:
+   ```bash
+   cd C:\Users\geova\OneDrive\Desktop\projeto_cpf
    python main.py
+
+

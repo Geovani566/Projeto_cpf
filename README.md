@@ -32,6 +32,19 @@ Digite o CPF a ser validado: 698.668.177-17
 CPF VÁLIDO: 698.668.177-17
 
 ```
+## 🌐 Versão Web
+
+O projeto também possui uma interface web desenvolvida com:
+
+- Django
+- Bootstrap
+
+### Funcionalidades da versão web:
+
+- Inserção de CPF via formulário
+- Validação em tempo real
+- Exibição do resultado na tela
+- Armazenamento temporário usando sessions
 
 
 

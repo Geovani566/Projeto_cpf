@@ -26,8 +26,10 @@ def home(request):
         valido,mensagem=validar_cpf(cpf_digitado)
         request.session['valido']=valido
         request.session['mensagem']=mensagem
-
-    cpf_digitado_formatado=formatar_cpf(cpf_digitado)
+    if cpf_digitado:
+        cpf_digitado_formatado=formatar_cpf(cpf_digitado)
+    else:
+        cpf_digitado=None
 
 
 

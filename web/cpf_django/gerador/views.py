@@ -29,7 +29,7 @@ def home(request):
     if cpf_digitado:
         cpf_digitado_formatado=formatar_cpf(cpf_digitado)
     else:
-        cpf_digitado=None
+        cpf_digitado_formatado=None
 
 
 
